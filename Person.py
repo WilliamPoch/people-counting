@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jul  4 11:32:42 2018
-
-@author: Akshay Narla
-"""
-
 from random import randint
 import time
 class MyPerson:
